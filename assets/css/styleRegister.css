@@ -1,0 +1,12 @@
+h1{
+    text-align: center;
+}
+form{
+    max-width: 22%;
+    text-align: center;
+    margin: 0px auto;
+}
+
+label, input{
+    width: 100%;
+}
